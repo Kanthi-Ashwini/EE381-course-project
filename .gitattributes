@@ -1,0 +1,6 @@
+# Altium and CAMtastic files are binary - never let git try to merge or
+# line-ending-normalise them.
+*.PcbDoc  binary
+*.SchDoc  binary
+*.PrjPcb  text
+*.Cam     binary

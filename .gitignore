@@ -1,0 +1,9 @@
+# Altium local output and history
+Project Outputs*/
+Project Logs*/
+History/
+__Previews/
+*.PcbDoc.bak
+*.SchDoc.bak
+*.~(*)
+.DS_Store
